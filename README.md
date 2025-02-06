@@ -26,9 +26,9 @@ For this application to work correctly, you will need to follow these steps:
 
 - Ensure Node.js is installed, you can follow the steps here to install this onto your device: https://nodejs.org/en
 
-- Clone this repository, using this URL:
+- Clone this repository, using this command: git clone https://github.com/Sangsterr/blackjack.git
 
-- cd into blackjack-game
+- cd into blackjack
 
 - Install application dependencies with the command 'npm install'
 
