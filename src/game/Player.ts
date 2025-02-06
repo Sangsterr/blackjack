@@ -19,7 +19,7 @@ import Card from "./Card";
 import CardDeck from "./CardDeck";
 
 export default class Player {
-  public hand: Card[];
+  private hand: Card[];
   private deck: CardDeck;
   private first_name: string;
 

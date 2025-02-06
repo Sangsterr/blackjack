@@ -15,7 +15,7 @@ import Card from "./Card";
 import CardDeck from "./CardDeck";
 
 export default class Dealer {
-  public hand: Card[];
+  private hand: Card[];
   private deck: CardDeck;
 
   constructor(deck: any) {
